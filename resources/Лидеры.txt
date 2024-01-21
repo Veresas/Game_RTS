@@ -1,3 +1,3 @@
 Peter 320
-qw 1
-bnm 10
+qw 6
+RTS 11
